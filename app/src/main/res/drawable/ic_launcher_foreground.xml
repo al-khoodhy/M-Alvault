@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Perisai dengan lubang kunci transparan (even-odd), sehingga layer monokrom tetap terbaca -->
+    <path
+        android:fillColor="#E4FBF3"
+        android:fillType="evenOdd"
+        android:pathData="M54,24 L78,32 L78,52 C78,68 67,78 54,84 C41,78 30,68 30,52 L30,32 Z M50.75,48.63 L49.5,64 L58.5,64 L57.25,48.63 A6.5,6.5 0 1,0 50.75,48.63 Z" />
+</vector>
